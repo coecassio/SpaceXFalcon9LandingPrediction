@@ -34,5 +34,10 @@ Since the dataset was so small, all 4 models had the same confusion matrix and m
 
 ### Conclusion:
 
-The 
+Since all 4 models had the same results in all metrics for the test set, choosing the best among them seems to be a difficult task. Going by train set accuracy doesn’t seem to be a good option, considering the possibility of overfitting, but if chosen as an alternative, the Decision Tree Classifier had the highest train accuracy, with 86.2% and Logistic Regression had the lowest, with 84.6%.
+
+Given the limited size of available data, getting an accuracy score of 83.3% on all 4 models built seems like a good result, considering the target has a mean value of only 0.67.
+
+While metrics show the models had a total of 0 false negatives, they seem to struggle with false positives, with 50% of failed landings in the test set being predicted as successful. One could argue this is the better scenario since having no false negatives makes failed landing predictions more trustworthy.
+
 
