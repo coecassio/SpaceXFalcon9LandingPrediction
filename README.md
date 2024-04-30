@@ -1,5 +1,5 @@
 ## SpaceX Falcon 9 Landing Prediction
-Analyzing and Predicting if SpaceX's Falcon 9 Fist Stage Boosters Will Successfuly Land
+Analyzing and Predicting if SpaceX's Falcon 9 Fist Stage Boosters Will Successfully Land
 
 
 ### Project Overview:
