@@ -6,10 +6,10 @@ Analyzing and Predicting if SpaceX's Falcon 9 Fist Stage Boosters Will Successfu
 
 This was developed as the capstone project for the IBM Data Science Course. The goal was to predict if SpaceX Falcon 9 first stage boosters would land successfully, while making use of most topics explored during the course. 
 It is divided as follows:
-1. Data Collection and Wrangling - data collection using SpaceX API, data collection by webscraping the wikipedia launch list, data wrangling
-2. Exploratory Data Analysis (EDA) - EDA using python dataviz packages, basic EDA using sqlite3
+1. Data Collection and Wrangling - data collection using SpaceX API, data collection by web scraping the Wikipedia launch list, data wrangling
+2. Exploratory Data Analysis (EDA) - EDA using python DataViz packages, basic EDA using sqlite3
 3. Interactive Visual Analytics and Dashboard - basic dashboard building with plotly's Dash package, map visualizations with folium
-4. Predictive Analysis (Classification) - predictive modeling with sklearn using 4 models (logistic regression, support vector machines, decision tree, k-nearest neighbors)
+4. Predictive Analysis (Classification) - predictive modeling with Sklearn using 4 models (logistic regression, support vector machines, decision tree, k-nearest neighbours)
 
 In the end all 4 models shared the same 83.3% Test Accuracy, likely due to the limited size of the dataset.
 
